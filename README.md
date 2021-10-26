@@ -1,4 +1,4 @@
-# aws_highload_practice_2
+# KMA AWS practice
 
 ## Create VPC
 - Create
